@@ -1,0 +1,19 @@
+{
+  "name": "project_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "@faker-js/faker": "^8.4.1"
+  }
+}
